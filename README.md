@@ -30,6 +30,7 @@ I categorize my progress into two bins:
 | 2026-08-04 | [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Array / Math | 🟢 Mastered | Resubmitted old solution to sync. |
 | 2026-08-04 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | 🟢 Mastered | Resubmitted old solution to sync. |
 | 2026-08-04 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | String | 🟢 Mastered | Resubmitted old solution to sync. |
+| 2026-08-05 | [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Hash Set / Array Traversal | 🟢 Mastered | Used a HashSet for fast O(1) lookups and tracked the min/max boundaries in a single pass.  |
 
 ---
 
