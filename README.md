@@ -3,6 +3,7 @@
 Welcome to my daily Data Structures and Algorithms tracker! I am Abhinav Sharma, a first-year B.Tech CSE student, and this repository serves as my personal logbook for mastering algorithmic logic and problem-solving.
 
 **Repository:** [abhinavsharma07-eng/leetcode](https://github.com/abhinavsharma07-eng/leetcode)  
+**LeetCode:** [abhinav_sharma_07](https://leetcode.com/u/abhinav_sharma_07/)
 All successful solutions are auto-synced directly from LeetCode via Safari using LeetCommit.
 
 ---
@@ -31,6 +32,7 @@ I categorize my progress into two bins:
 | 2026-08-04 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | 🟢 Mastered | Resubmitted old solution to sync. |
 | 2026-08-04 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | String | 🟢 Mastered | Resubmitted old solution to sync. |
 | 2026-08-05 | [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Hash Set / Array Traversal | 🟢 Mastered | Used a HashSet for fast O(1) lookups and tracked the min/max boundaries in a single pass.  |
+| 2026-08-05 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers / In-Place Array | 🟢 Mastered | Used a pointer to track the insertion index for valid elements. Overwrote elements matching val in-place and returned the final count k.  |
 
 ---
 
