@@ -34,6 +34,7 @@ I categorize my progress into two bins:
 | 2026-08-04 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | String | 🟢 Mastered | Resubmitted old solution to sync. |
 | 2026-08-05 | [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Hash Set / Array Traversal | 🟢 Mastered | Used a HashSet for fast O(1) lookups and tracked the min/max boundaries in a single pass.  |
 | 2026-08-05 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers / In-Place Array | 🟢 Mastered | Used a pointer to track the insertion index for valid elements. Overwrote elements matching val in-place and returned the final count k.  |
+| 2026-08-06 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Math / Array | 🟢 Mastered | Iterated from right to left to handle the carry-over. If a digit was less than 9, incremented it and returned early. Handled the edge case of all 9s (e.g., 999) by creating a new array of size n+1 with a leading 1. |
 
 ---
 
