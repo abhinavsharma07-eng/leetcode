@@ -35,6 +35,7 @@ I categorize my progress into two bins:
 | 2026-08-05 | [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Hash Set / Array Traversal | 🟢 Mastered | Used a HashSet for fast O(1) lookups and tracked the min/max boundaries in a single pass.  |
 | 2026-08-05 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers / In-Place Array | 🟢 Mastered | Used a pointer to track the insertion index for valid elements. Overwrote elements matching val in-place and returned the final count k.  |
 | 2026-08-06 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Math / Array | 🟢 Mastered | Pre-counted the 9s to handle the "all 9s" edge case upfront. For normal cases, iterated right-to-left with a while loop, managing the carry-over by resetting 10s to 0 until the addition was complete. |
+| 2026-08-07 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Sorting | 🟢 Mastered | Usea a Merge Sort algorithm.  |
 
 ---
 
