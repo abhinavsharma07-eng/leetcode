@@ -35,7 +35,10 @@ I categorize my progress into two bins:
 | 2026-08-05 | [3731. Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Hash Set / Array Traversal | 🟢 Mastered | Used a HashSet for fast O(1) lookups and tracked the min/max boundaries in a single pass.  |
 | 2026-08-05 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Two Pointers / In-Place Array | 🟢 Mastered | Used a pointer to track the insertion index for valid elements. Overwrote elements matching val in-place and returned the final count k.  |
 | 2026-08-06 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Math / Array | 🟢 Mastered | Pre-counted the 9s to handle the "all 9s" edge case upfront. For normal cases, iterated right-to-left with a while loop, managing the carry-over by resetting 10s to 0 until the addition was complete. |
-| 2026-08-07 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Sorting | 🟢 Mastered | Usea a Merge Sort algorithm.  |
+| 2026-08-07 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Sorting | 🟢 Mastered | Use a Merge Sort algorithm.  |
+| 2026-08-09 | [2525. Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | Math / Simulation | 🟢 Mastered | Evaluated dimensions and mass to set 'Bulky' and 'Heavy' boolean flags. Used `long` for volume to prevent integer overflow before resolving the final category string. |
+| 2026-08-09 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Math / String | 🟢 Mastered | Checked divisibility using the modulo operator. Ensured the most restrictive condition (divisible by 15) was evaluated first before checking 3 and 5 individually. |
+| 2026-08-09 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math / Number Theory | 🟢 Mastered | Iterated through possible divisors to sum them up. Optimized the time complexity by only looping up to the square root of the number to find pairs. |
 
 ---
 
