@@ -41,6 +41,7 @@ I categorize my progress into two bins:
 | 2026-08-09 | [507. Perfect Number](https://leetcode.com/problems/perfect-number/) | Math / Number Theory | 🟢 Mastered | Iterated through possible divisors to sum them up. Optimized the time complexity by only looping up to the square root of the number to find pairs. |
 | 2026-08-11 | [415. Add String](https://leetcode.com/problems/add-strings/) | String | 🟡 Need Review | Use two pointers right-to-left with a carry variable. |
 | 2026-08-11 | [2235. Add Two Integer](https://leetcode.com/problems/add-two-integer/) | Math | 🟢 Mastered | Use normal addition. |
+| 2026-08-012 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Recursion | 🟢 Mastered | Use Binary Binary Exponentiation to calculate exponential. |
 
 ---
 
