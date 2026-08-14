@@ -44,7 +44,8 @@ I categorize my progress into two bins:
 | 2026-08-012 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Recursion |  🟡 Need Review | Use Binary Exponentiation to calculate exponential. |
 | 2026-08-12 | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Array | 🟢 Mastered | Use two pointer. |
 | 2026-08-13 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Math | 🟢 Mastered | Checking number of elements have negative sign to estimate final product parity . |
-| 2026-08-04 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Memoization|  🟡 Need Review | Use HashMap to apply memoization. |
+| 2026-08-14 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Memoization|  🟡 Need Review | Use HashMap to apply memoization. |
+| 2026-08-14 | [136. Single Number](https://leetcode.com/problems/single-number/) | Array / BIT Manipulation | 🟢 Mastered | Use XOR bitwise operator to solve. |
 
 ---
 
