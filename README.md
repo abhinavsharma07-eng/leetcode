@@ -46,8 +46,9 @@ I categorize my progress into two bins:
 | 2026-08-13 | [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Math | 🟢 Mastered | Checking number of elements have negative sign to estimate final product parity . |
 | 2026-08-14 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Memoization|  🟡 Need Review | Use HashMap to apply memoization. |
 | 2026-08-14 | [136. Single Number](https://leetcode.com/problems/single-number/) | Array / BIT Manipulation | 🟢 Mastered | Use XOR bitwise operator to solve. |
-| 2026-08-04 | [283. Move Zero](https://leetcode.com/problems/move-zero/) | Two Pointer | 🟢 Mastered | Use two pointer technique to move zero  |
-
+| 2026-08-15 | [283. Move Zero](https://leetcode.com/problems/move-zero/) | Two Pointer | 🟢 Mastered | Use two pointer technique to move zero  |
+| 2026-08-16 | [1. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array / Sorting | 🟡 Need Review | . |
+ 
 ---
 
 ## 🛠️ Setup & Tech
