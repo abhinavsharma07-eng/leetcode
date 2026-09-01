@@ -1,0 +1,5 @@
+// Title: Minimum Moves to Clean the Classroom
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+
