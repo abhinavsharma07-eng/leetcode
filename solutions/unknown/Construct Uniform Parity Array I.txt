@@ -1,0 +1,5 @@
+// Title: Construct Uniform Parity Array I
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/construct-uniform-parity-array-i/
+
