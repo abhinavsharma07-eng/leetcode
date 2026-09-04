@@ -1,0 +1,5 @@
+// Title: Smallest Stable Index I
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/smallest-stable-index-i/
+
