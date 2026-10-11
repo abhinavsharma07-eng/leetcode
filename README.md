@@ -10,5 +10,5 @@ All successful solutions are auto-synced directly from LeetCode via Safari using
 ---
 
 ## 🛠️ Setup & Tech
-*   **Language:** Java
+*   **Language:** Java & C
 *   **Automation:** Auto-synced using the LeetCommit Safari extension.
