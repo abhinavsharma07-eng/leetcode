@@ -1,0 +1,5 @@
+// Title: Minimum Common Value
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/minimum-common-value/
+
