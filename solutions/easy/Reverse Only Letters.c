@@ -3,18 +3,20 @@
             // Language: C
             // Link: https://leetcode.com/problems/reverse-only-letters/
 
-    while (i <= j) {
-        if (!isalpha(left[i]))
             i++;
-        else if (!isalpha(right[j]))
+        else if (!isalpha(s[j]))
             j--;
         else {
-            int temp = left[i];
-            left[i] = right[j];
-            right[j] = temp;
+            int temp = s[i];
+            s[i] = s[j];
+            s[j] = temp;
             i++;
+        if (!isalpha(s[i]))
+    i = 0, j = size - 1;
+    while (i <= j) {
+    while (s[i] != '\0') {
+        size++;
+        i++;
+    }
             j--;
         }
-    }
-    return s;
-}
